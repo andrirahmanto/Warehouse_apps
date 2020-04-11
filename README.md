@@ -8,15 +8,15 @@ Desktop app yang berfungsi untuk mengelola barang yang di jual di suatu toko mau
 - pyqt5 (library python)
 
 ## Fitur
-#### Admin
+1. Admin
 - Menampilkan Seluruh Barang
 - Menampilkan Seluruh Transaksi
 - Menambah akun
 - Menghapus akun
-#### Kasir
+2. Kasir
 - Menampilkan Seluruh Barang
 - Melakukan Transaksi
-#### Pengurus Gudang
+3. Pengurus Gudang
 - Menanmpilkan Seluruh Barang
 - Menambah Jumlah Barang
 - Menambah barang
