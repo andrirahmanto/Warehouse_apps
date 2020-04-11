@@ -40,7 +40,7 @@ class HomeCashierController:
         item = Item()
         id = item.getid(itemname)
         item = Item(id)
-        if amountitem > item.getamountitem():
+        if int(amountitem) > int(item.getamountitem()):
             return False
         return True
 
