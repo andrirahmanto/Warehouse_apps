@@ -1,0 +1,11 @@
+Admin
+Username :Admin
+Password :12345
+
+Pengurus Gudang
+Username :PengurusGudang
+Password :12345
+
+Kasir
+Username :Kasir
+Password :12345
