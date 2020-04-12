@@ -29,3 +29,4 @@ Desktop app yang berfungsi untuk mengelola barang yang di jual di suatu toko mau
 5. Login dengan menggunakan akun yang sudah tersedia di WarehouseApp\DefaultAccount.txt
 
 ## Video Mengenai App
+Link Youtube : https://youtu.be/rxtBhDhkPaw
