@@ -71,14 +71,3 @@ class Account():
         for data in self.col_account.find({}, {"_id": 0}):
             listdata.append(data)
         return listdata
-
-
-
-# input = input("masukan username: ")
-# account = DbAccount(input)
-# print(account.getname())
-# #print(account.getusername())
-# print(account.getpassword())
-# print(account.getrole())
-# for name in account.getlistname():
-#     print(name)

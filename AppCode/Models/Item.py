@@ -81,9 +81,3 @@ class Item():
     def getid(self,itemname):
         data = self.col_item.find_one({"itemname":itemname})
         return data["_id"]
-
-# a = Item()
-# input = "Samsung Galaxy S20 Ultra"
-# id = a.getid(input)
-# b = Item(id)
-# print(b.getlistdata())

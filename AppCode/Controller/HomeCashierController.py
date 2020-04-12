@@ -63,7 +63,7 @@ class HomeCashierController:
         return str(totalprice)
 
     def AddTransaction(self,itemname,amountitem):
-        cashiername = self.username
+        cashiername = self.account.getname()
         item = Item()
         id = item.getid(itemname)
         item = Item(id)

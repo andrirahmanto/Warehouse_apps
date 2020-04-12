@@ -49,11 +49,3 @@ class AddUserController:
             self.account.addaccount(username,password,name,role)
             return True
         return False
-
-
-# controller = AddUserController("andri7")
-# username = "andri"
-# password = "123"
-# name = "andri7"
-# role = "Admin"
-# print(controller.checkInputAddAccount(username,password,name,role))
