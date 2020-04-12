@@ -23,9 +23,9 @@ dataitem = [
 ]
 
 transaction = [
-    {"cashiername":"Zaidan Pratama","itemname": "Samsung Galaxy S20 Ultra","price":"1200","amountitem":"2","totalprice":"2400"},
-    {"cashiername":"Zaidan Pratama","itemname":"Apple Iphone X","price": "999","amountitem": "1","totalprice": "999"},
-    {"cashiername":"Khualifi Alkatsiri","itemname": "Apple Iphone 11 Pro Max","price": "1500","amountitem": "3","totalprice": "4500"}
+    {"cashiername":"Kasir1","itemname": "Samsung Galaxy S20 Ultra","price":"1200","amountitem":"2","totalprice":"2400"},
+    {"cashiername":"Kasir1","itemname":"Apple Iphone X","price": "999","amountitem": "1","totalprice": "999"},
+    {"cashiername":"Kasir1","itemname": "Apple Iphone 11 Pro Max","price": "1500","amountitem": "3","totalprice": "4500"}
 ]
 
 col_account.insert_many(dataaccount)
